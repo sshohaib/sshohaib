@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshohaib&label=Profile%20views&color=0e75b6&style=flat" alt="sshohaib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshohaib" alt="sshohaib" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/sshohaib/sshohaib/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="sshohaib" /></a> </p>
 
 - 🔭 I’m currently working on **skill developments**
 
